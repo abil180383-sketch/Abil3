@@ -1,0 +1,6 @@
+{
+  "name": "Unified SMC Swing Confluence Engine",
+  "description": "Нейрожелілік свинг талдағыш және институционалды Smart Money Concepts (SMC) график анализаторы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
